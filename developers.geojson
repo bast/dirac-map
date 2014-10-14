@@ -26,6 +26,19 @@
           43.560369
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Andre Gomes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.140773,
+          50.611855
+        ]
+      }
     }
   ]
 }
