@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Radovan Bast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.056639,
+          59.353651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Trond Saue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.467736,
+          43.560369
+        ]
+      }
+    }
+  ]
+}
