@@ -39,6 +39,19 @@
           50.611855
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stefan Knecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.507503,
+          47.406901
+        ]
+      }
     }
   ]
 }
