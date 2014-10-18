@@ -52,6 +52,19 @@
           47.406901
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Roberto Di Remigio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  18.97612,
+	  69.681613 
+        ]
+      }
+    },
   ]
 }
