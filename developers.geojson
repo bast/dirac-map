@@ -56,6 +56,32 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Miroslav Ilias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.122289,
+          48.741716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ephraim Eliav, Miroslav Ilias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8061113,
+          32.1114886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Roberto Di Remigio"
       },
       "geometry": {
